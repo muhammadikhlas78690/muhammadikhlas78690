@@ -1,42 +1,80 @@
-Muhammad Ikhlas | Full Stack Developer
+# Muhammad Ikhlas
+### Software Engineer | Full Stack Developer
 
-👋 About Me ([My Portfolio]())
+📍 Islamabad, Pakistan  
+📧 mikhlas78690@gmail.com  
+📞 +92 323 9359060  
 
-I am a passionate and results-driven **Full Stack Developer** currently pursuing a Bachelor’s in Computer Science with above **3.6** CGPA. With hands-on experience in modern web technologies, I specialize in building responsive, scalable, and user-centric applications from end to end. My expertise spans **React.js, Next.js, Tailwind CSS, Node.js (Express), MongoDB, PostgreSQL, and RESTful APIs**, combined with a strong focus on AI model fine-tuning.
+👋 About Me ([My Portfolio](https://muhammadikhlas78690.github.io/))
 
-I thrive on solving complex problems, delivering clean code, and turning ideas into production-ready solutions. With 2+ years of experience conducting technical interviews with US clients, I also bring excellent communication skills and a client-first mindset.
+I am a **Full Stack Software Engineer** with **8+ years of experience** building scalable, high-performance web applications across modern frontend and backend ecosystems.
 
-🎓 Currently in my final year of BSCS at ARID University of Information Technology (Rawalpindi). Previously completed a Frontend Internship at Pakistan Bureau of Statistics (PBS) and working as a Web Developer at ALGO 3 since August 2023.
+I specialize in designing and developing **end-to-end solutions**, from responsive user interfaces to robust backend architectures and cloud deployments.
 
-🌱 I’m deeply interested in **AI-powered web applications**, full-stack architecture, and building seamless user experiences.
+I enjoy working with diverse technologies including **React, Angular, Vue, Node.js, ASP.NET, and cloud platforms**, and I thrive in collaborative, agile environments where I can solve complex engineering problems and deliver impactful solutions.
 
-🚀 I excel at developing complete features — from complex frontend designs to secure backend APIs and database architecture.
+## 🛠️ Technical Skills
 
-💬 Ask me about  
-React.js • Next.js • Tailwind CSS • Node.js & Express • MongoDB • PostgreSQL • RESTful APIs • Authentication Systems • AI Model Fine-Tuning (Anthropic) • Agile & Scrum
+### Frontend
+- JavaScript (ES6+), TypeScript  
+- React.js, Next.js, Gatsby  
+- Angular, RxJS, NgRx, Ngxs  
+- Vue.js (Nuxt.js, Vuex, Quasar, Vuetify)  
+- Redux, React Query, RTK  
+- HTML5, CSS3, SCSS  
+- Tailwind CSS, Bootstrap, Material UI, Styled Components, PrimeNG  
 
-🛠️ My Tech Stack
+### Backend
+- Node.js (Express, NestJS, Fastify)  
+- ASP.NET Core, MVC, Web APIs (C#)  
+- PHP (Laravel, CodeIgniter, Symfony)  
+- RESTful APIs, GraphQL  
+- WebSockets (Socket.io)  
 
-**Frontend**  
-React.js • Next.js • Redux • Tailwind CSS • HTML5 • CSS (Bootstrap)
+### Databases
+- MongoDB  
+- PostgreSQL  
+- MySQL  
+- Microsoft SQL Server  
 
-**Backend & APIs**  
-Node.js (Express) • RESTful APIs • Authentication (JWT, Google OAuth)
+### Testing
+- Jest, Mocha, Chai  
+- Jasmine, Karma  
+- Cypress, Playwright (E2E Testing)  
 
-**Databases**  
-MongoDB • PostgreSQL
+### Cloud & DevOps
+- AWS (EC2, S3, Lambda, Elastic Beanstalk)  
+- Azure (basic experience)  
+- Docker  
+- Linux (basic administration, deployments, shell scripting)  
 
-**AI & Tools**  
-Fine-Tuning AI Models (Anthropic) • Git • GitHub • Figma • Agile & Scrum
+### Other Skills
+- Authentication (JWT, OAuth, Firebase Auth)  
+- WordPress (WooCommerce), Shopify  
+- Ionic Mobile Development  
+- Agile & Scrum Methodology  
+- Git & GitHub  
 
-**Languages & Concepts**  
-JavaScript • C++ • OOP • DSA • SQL
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Computer Science**  
+COMSATS Institute of Information Technology, Islamabad  
+(2011 – 2015)
+
+## 🚀 About Me
+
+- Passionate about building scalable web applications  
+- Strong interest in system design & cloud architecture  
+- Love working across full-stack environments  
+- Enjoy solving complex engineering problems  
 
 ✨ Featured Projects
 
 Here are some of the key projects that showcase my full-stack and AI capabilities:
 
-1. **Onboarding & Offboarding Management System (ALGO 3)**  
+1. **Onboarding & Offboarding Management System (Turing Project)**  
    Developed a complete automation platform using **React.js, Node.js, and PostgreSQL**. Features include automated Slack workspace management, Jibble assignments, and intelligent talent allocation to job roles.  
    *Tech Stack:* React.js • Node.js • PostgreSQL • Tailwind CSS
 
@@ -48,12 +86,13 @@ Here are some of the key projects that showcase my full-stack and AI capabilitie
    Worked on multiple projects fine-tuning Anthropic models to generate high-quality, production-ready code. Focused on prompt engineering and model optimization for real-world development tasks.  
    *Tech Stack:* Anthropic API • Python • Next.js
 
-4. **Multiple Client Web Applications (ALGO 3)**  
+4. **Multiple Client Web Applications**  
    Contributed to various full-stack client projects as a Frontend + Backend developer, handling both complex UI/UX and backend logic.
 
 Thank you for visiting my profile!  
 I’m always excited to collaborate on interesting projects, discuss new opportunities, or connect with fellow developers. Feel free to reach out!
 
 📫 **Contact**  
-+92 323 9359060 | mikhlas78690@gmail.com  
-[GitHub](https://github.com/muhammadikhlas78690/) | [Portfolio]() | [LinkedIn](https://www.linkedin.com/in/muhammad-ikhlas-a95b3b3a0/)
+Feel free to reach out for collaboration, freelance work, or opportunities.
++92 323 9359060 | ikhlasturing78690@gmail.com  
+[GitHub](https://github.com/muhammadikhlas78690/) | [Portfolio](https://muhammadikhlas78690.github.io/) | [LinkedIn](https://www.linkedin.com/in/muhammad-ikhlas-a95b3b3a0/)
