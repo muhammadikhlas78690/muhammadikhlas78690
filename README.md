@@ -94,5 +94,5 @@ I’m always excited to collaborate on interesting projects, discuss new opportu
 
 📫 **Contact**  
 Feel free to reach out for collaboration, freelance work, or opportunities.
-+92 323 9359060 | ikhlasturing78690@gmail.com  
++92 323 9359060 | mikhlas78690@gmail.com  
 [GitHub](https://github.com/muhammadikhlas78690/) | [Portfolio](https://muhammadikhlas78690.github.io/) | [LinkedIn](https://www.linkedin.com/in/muhammad-ikhlas-a95b3b3a0/)
